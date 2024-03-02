@@ -1,6 +1,6 @@
 ![CS50Certificate!](CS50x-Certificate.png)
 
-## TheKicker's CS50 Gradebook
+## Haq's CS50 Gradebook
 
 <!-- https://github.com/gepser/markdown-progress -->
 | Week      | Type | Title | Grade|
